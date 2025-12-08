@@ -207,4 +207,4 @@ marimo/_lsp/
 __marimo__/
 
 # Submission Data
-submission/submission_pytorch_elasticnet.csv
+data/submission_pytorch_elasticnet.csv
